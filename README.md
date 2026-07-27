@@ -10,7 +10,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7B68EE&center=true&vCenter=true&width=650&lines=Magento+2+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;B2B+E-commerce+%26+API+Architect;MERN+Stack+Learner+%E2%9A%A1;Building+the+future+with+AI%2FML+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7B68EE&center=true&vCenter=true&width=650&lines=Magento+2+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;B2B+E-commerce+%26+API+Developer;MERN+Stack+Learner+%E2%9A%A1;Building+the+future+with+AI%2FML+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  PROFILE STATS BADGES  ░░░░░░░░░░░░░░░░░░░░ -->
 <img src="https://komarev.com/ghpvc/?username=mohit-shrivas&label=Profile%20Views&color=7B68EE&style=for-the-badge" alt="profile views" />
@@ -66,6 +66,7 @@ const mohit: Developer = {
 
 ### Frameworks & Libraries
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![Hyva](https://img.shields.io/badge/Hyv%C3%A4-4F46E5?style=for-the-badge&logo=magento&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
