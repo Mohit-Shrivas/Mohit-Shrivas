@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/github/followers/mohit-shrivas?label=Followers&style=for-the-badge&color=302b63&logo=github" alt="followers" />
 </a>
 <img src="https://img.shields.io/badge/Focus-B2B%20E--commerce-blueviolet?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Hyv%C3%A4-Theme-4F46E5?style=for-the-badge&logo=magento&logoColor=white" alt="hyva" />
 
 </div>
 
