@@ -4,7 +4,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  ANIMATED HEADER BANNER  ░░░░░░░░░░░░░░░░░░░░ -->
 <a href="https://github.com/mohit-shrivas">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohit%20Shrivas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Magento%202%20%C2%B7%20Backend%20Architect%20%C2%B7%20AI%2FML%20Explorer&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohit%20Shrivas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Magento%202%20%C2%B7%20Backend%20Developer%20%C2%B7%20AI%2FML%20Explorer&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░░░░░ -->
